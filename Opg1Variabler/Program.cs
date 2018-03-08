@@ -32,12 +32,6 @@ namespace Opg1Variabler
             p.ID = 1;
             p.Navn = "Mikkel";
             Console.WriteLine(p.Navn);
-            
-
-
-
-
-
 
 
 
