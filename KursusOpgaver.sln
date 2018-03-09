@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringsNavne", "StringsNavn
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoopTabel", "LoopTabel\LoopTabel.csproj", "{A86A6155-98AB-428D-AA89-1BC554B2E7B9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module05SmåMetoder", "Module05SmåMetoder\Module05SmåMetoder.csproj", "{5D4558DF-DBDA-46A3-A81A-D21F2E25F04E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{A86A6155-98AB-428D-AA89-1BC554B2E7B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A86A6155-98AB-428D-AA89-1BC554B2E7B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A86A6155-98AB-428D-AA89-1BC554B2E7B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D4558DF-DBDA-46A3-A81A-D21F2E25F04E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D4558DF-DBDA-46A3-A81A-D21F2E25F04E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D4558DF-DBDA-46A3-A81A-D21F2E25F04E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D4558DF-DBDA-46A3-A81A-D21F2E25F04E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
