@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoopTabel", "LoopTabel\Loop
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module05SmåMetoder", "Module05SmåMetoder\Module05SmåMetoder.csproj", "{5D4558DF-DBDA-46A3-A81A-D21F2E25F04E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module05Overload", "Module05Overload\Module05Overload.csproj", "{47E6DE67-681B-4591-A832-7C8EBE4C6B4E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{5D4558DF-DBDA-46A3-A81A-D21F2E25F04E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5D4558DF-DBDA-46A3-A81A-D21F2E25F04E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5D4558DF-DBDA-46A3-A81A-D21F2E25F04E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47E6DE67-681B-4591-A832-7C8EBE4C6B4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47E6DE67-681B-4591-A832-7C8EBE4C6B4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47E6DE67-681B-4591-A832-7C8EBE4C6B4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47E6DE67-681B-4591-A832-7C8EBE4C6B4E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
