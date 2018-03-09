@@ -9,13 +9,15 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module4Arrays", "Module4Arr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringsNavne", "StringsNavne\StringsNavne.csproj", "{912EF1B1-4B64-4BB8-8BFA-11527E30ECE2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoopTabel", "LoopTabel\LoopTabel.csproj", "{A86A6155-98AB-428D-AA89-1BC554B2E7B9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10-tabel", "LoopTabel\10-tabel.csproj", "{A86A6155-98AB-428D-AA89-1BC554B2E7B9}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module05SmåMetoder", "Module05SmåMetoder\Module05SmåMetoder.csproj", "{5D4558DF-DBDA-46A3-A81A-D21F2E25F04E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module05Overload", "Module05Overload\Module05Overload.csproj", "{47E6DE67-681B-4591-A832-7C8EBE4C6B4E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module05Rekursion", "Module05Rekursion\Module05Rekursion.csproj", "{16EF7FAF-0A4C-412E-80C3-6D46EEE7AE2B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module05BeregnArray", "Module05BeregnArray\Module05BeregnArray.csproj", "{B1B64C50-211B-4C42-A4F4-47CC6C74045A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{16EF7FAF-0A4C-412E-80C3-6D46EEE7AE2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{16EF7FAF-0A4C-412E-80C3-6D46EEE7AE2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{16EF7FAF-0A4C-412E-80C3-6D46EEE7AE2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1B64C50-211B-4C42-A4F4-47CC6C74045A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1B64C50-211B-4C42-A4F4-47CC6C74045A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1B64C50-211B-4C42-A4F4-47CC6C74045A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1B64C50-211B-4C42-A4F4-47CC6C74045A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
