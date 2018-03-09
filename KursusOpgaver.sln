@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27130.2036
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opg1Variabler", "Opg1Variabler\Opg1Variabler.csproj", "{FADF1584-5D9D-47E3-9A08-9D62999A3AE0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module4Arrays", "Module4Arrays\Module4Arrays.csproj", "{53823EDF-166B-4609-A64E-3347923DEB69}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{FADF1584-5D9D-47E3-9A08-9D62999A3AE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FADF1584-5D9D-47E3-9A08-9D62999A3AE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FADF1584-5D9D-47E3-9A08-9D62999A3AE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53823EDF-166B-4609-A64E-3347923DEB69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53823EDF-166B-4609-A64E-3347923DEB69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53823EDF-166B-4609-A64E-3347923DEB69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53823EDF-166B-4609-A64E-3347923DEB69}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
