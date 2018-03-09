@@ -8,17 +8,13 @@ namespace Module4Arrays
         {
 
 
-            int[] løn = new int[6];
-            løn[0] = 50000;
-            løn[1] = 15000;
-            løn[2] = 25000;
-            løn[3] = 120000;
-            løn[4] = 40000;
-            løn[5] = 35000;
+            double[] løn = new double[6];
+            Random rnd = new Random();
 
-            int total = 0;
+            double total = 0;
             for (int i = 0; i < løn.Length; i++)
             {
+                løn[i] = rnd.Next(15000, 150000);
                 Console.WriteLine(løn[i]);
                 total = total + løn[i];
             }
