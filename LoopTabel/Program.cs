@@ -16,7 +16,8 @@ namespace LoopTabel
                         Console.ForegroundColor = ConsoleColor.DarkRed;
                     else
                         Console.ForegroundColor = ConsoleColor.White;
-                    Console.Write(i*j + "\t");
+                    //Console.Write(i*j + "\t");
+                    Console.Write((i * j).ToString().PadLeft(5));
 
                 }
                 Console.WriteLine();
