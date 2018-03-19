@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module07_StatiskeMetoder", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module08Arv", "Module08Arv\Module08Arv.csproj", "{9B17167D-0F23-443F-AF46-5CDE46D1FFD5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module08_Arv(Random)", "Module08_Arv(Random)\Module08_Arv(Random).csproj", "{FC2EA818-A89B-4682-A157-A26B052BE647}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +107,10 @@ Global
 		{9B17167D-0F23-443F-AF46-5CDE46D1FFD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9B17167D-0F23-443F-AF46-5CDE46D1FFD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9B17167D-0F23-443F-AF46-5CDE46D1FFD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC2EA818-A89B-4682-A157-A26B052BE647}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC2EA818-A89B-4682-A157-A26B052BE647}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC2EA818-A89B-4682-A157-A26B052BE647}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC2EA818-A89B-4682-A157-A26B052BE647}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
