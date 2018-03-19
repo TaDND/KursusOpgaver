@@ -18,14 +18,22 @@ namespace Module08_Nedarvning
             l.Ryst();
             Console.WriteLine(l.Værdi);
 
-            while (l.ErGlobus()==false)
+
+            Console.WriteLine();
+            Console.ForegroundColor = ConsoleColor.Black;
+            Console.BackgroundColor = ConsoleColor.DarkRed;
+            Console.WriteLine("Start globus loop");
+            Console.ForegroundColor = ConsoleColor.White;
+            Console.BackgroundColor = ConsoleColor.Black;
+            while (l.ErGlobus()==false) //Loop bliver ved med at køre indtil, Ludoterning slår en globus.
             {
-                i++;
+                i++;    //Tæller antal ryst
                 Console.WriteLine("antal ryst: " +i);
-                l.Ryst();
-                Console.WriteLine();
+                l.Ryst();   //Ryster ludoterning
+                Console.WriteLine();    
                 Console.WriteLine();
             }
+            
 
             Console.WriteLine();
             Console.WriteLine(l.ErGlobus().ToString());
@@ -40,8 +48,6 @@ namespace Module08_Nedarvning
             Console.WriteLine(t.Værdi);
             t.Ryst();
             Console.WriteLine(t.Værdi);
-
-
 
 
 
