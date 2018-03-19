@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module07_EgenskaberVare", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module07_EgenskaberTrekant", "Module07_EgenskaberTrekant\Module07_EgenskaberTrekant.csproj", "{8EA46956-F220-4365-947E-4EA83FE8B8E6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module07_KlasserOgArrays", "Module07_KlasserOgArrays\Module07_KlasserOgArrays.csproj", "{495482F1-21EF-49BD-993E-D54CBAEAF0EF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{8EA46956-F220-4365-947E-4EA83FE8B8E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8EA46956-F220-4365-947E-4EA83FE8B8E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8EA46956-F220-4365-947E-4EA83FE8B8E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{495482F1-21EF-49BD-993E-D54CBAEAF0EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{495482F1-21EF-49BD-993E-D54CBAEAF0EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{495482F1-21EF-49BD-993E-D54CBAEAF0EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{495482F1-21EF-49BD-993E-D54CBAEAF0EF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
