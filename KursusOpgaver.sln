@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module08Arv", "Module08Arv\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module08_Arv(Random)", "Module08_Arv(Random)\Module08_Arv(Random).csproj", "{FC2EA818-A89B-4682-A157-A26B052BE647}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module08_Nedarvning", "Module08_Nedarvning\Module08_Nedarvning.csproj", "{0C6C1590-2CDC-43F2-9FFE-57F387F37360}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{FC2EA818-A89B-4682-A157-A26B052BE647}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FC2EA818-A89B-4682-A157-A26B052BE647}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FC2EA818-A89B-4682-A157-A26B052BE647}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C6C1590-2CDC-43F2-9FFE-57F387F37360}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C6C1590-2CDC-43F2-9FFE-57F387F37360}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C6C1590-2CDC-43F2-9FFE-57F387F37360}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C6C1590-2CDC-43F2-9FFE-57F387F37360}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
