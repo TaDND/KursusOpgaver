@@ -7,12 +7,24 @@ namespace Module08_Nedarvning
     {
         static void Main(string[] args)
         {
-
+            Console.WriteLine("Ludoterning:");
             LudoTerning l = new LudoTerning();
 
+            Console.WriteLine(l.Værdi);
             Console.WriteLine(l.ErGlobus().ToString());
             Console.WriteLine(l.ErStjerne().ToString());
+            l.Ryst();
             Console.WriteLine(l.Værdi);
+
+
+            Console.WriteLine();
+            Console.WriteLine();
+            Console.WriteLine("Almindelig terning:");
+
+            Terning t = new Terning();
+            Console.WriteLine(t.Værdi);
+            t.Ryst();
+            Console.WriteLine(t.Værdi);
 
 
 
