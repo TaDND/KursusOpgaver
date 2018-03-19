@@ -17,8 +17,6 @@ namespace Module07_KlasserOgArrays
             b.Skriv();
 
 
-
-
             // Keep console window open when using the debugger (F5)
             if (System.Diagnostics.Debugger.IsAttached)
             {
@@ -35,62 +33,71 @@ namespace Module07_KlasserOgArrays
             public int Værdi
             {
                 
-                get { return værdi; }
+                get { return this.værdi; }
                 set
                 {
                     if (value<1 ||value>6)
-                        værdi = 1;
+                        this.værdi = 1;
                     else
-                        værdi = value;
+                        this.værdi = value;
                 }
             }
+            //Statisk constructor
             static Terning()
             {
                 rnd = new Random();
             }
-
+            //Default constructor
             public Terning()
             {
                 Ryst();
             }
+            //Custom constructor
             public Terning(int Value)
             {
                 Værdi = Value;
             }
-
+            //Offentlig metode ryst
             public void Ryst()
             {
-                this.Værdi = rnd.Next(1, 6);                
+                this.Værdi = rnd.Next(1, 7);                
             }
-
+            //Offentlig metode skriv
             public void Skriv()
             {
-                Console.Write("[" + Værdi + "]"); 
+                Console.Write(("[" + this.Værdi + "]").PadRight(5)); 
             }
         }
         class YatzyBæger
         {
-            private Terning[] terninger;
+            private Terning[] terninger;    //Variabel der kan pege på array af Terning
 
+            //Default constructor
             public YatzyBæger()
             {
-                terninger = new Terning[5];
+                this.terninger = new Terning[5];    //Opretter nyt array af Terning på heap, og lader variablen "terninger" pege på dette nye array.
                 for (int i = 0; i < 5; i++)
                 {
-                    terninger[i] =new Terning();
+                    this.terninger[i] =new Terning();   
                 }
+
             }
+            /// <summary>
+            /// Skifter værdi på alle terninger
+            /// </summary>
             public void Ryst()
             {
-                foreach (Terning terning in terninger)
+                foreach (Terning terning in this.terninger) //"Ryster" hver enkelt terning en af gangen
                 {
                     terning.Ryst();
                 }
             }
-
+            /// <summary>
+            /// Udskriver værdi af hver enkelt terninger
+            /// </summary>
             public void Skriv()
             {
-                foreach (Terning terning in terninger)
+                foreach (Terning terning in this.terninger) //Skriver værdi af hver enkelt terning ud
                 {
                     terning.Skriv();
                 }
