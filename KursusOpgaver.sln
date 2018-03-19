@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Terning(1)-OffentligeOgPriv
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module07 _EgenskaberPerson", "Module07 _EgenskaberPerson\Module07 _EgenskaberPerson.csproj", "{2785F63C-F2B7-4932-82DC-C4D06E4AE6BE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module07_EgenskaberVare", "Module07_EgenskaberVare\Module07_EgenskaberVare.csproj", "{FF326E24-BB1C-4530-A37D-CE301648D279}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{2785F63C-F2B7-4932-82DC-C4D06E4AE6BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2785F63C-F2B7-4932-82DC-C4D06E4AE6BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2785F63C-F2B7-4932-82DC-C4D06E4AE6BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF326E24-BB1C-4530-A37D-CE301648D279}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF326E24-BB1C-4530-A37D-CE301648D279}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF326E24-BB1C-4530-A37D-CE301648D279}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF326E24-BB1C-4530-A37D-CE301648D279}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
