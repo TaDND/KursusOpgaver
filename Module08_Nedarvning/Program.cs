@@ -58,6 +58,8 @@ namespace Module08_Nedarvning
                 Console.ReadKey();
             }
         }
+        
+        
 
         class Terning
         {
