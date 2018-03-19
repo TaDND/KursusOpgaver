@@ -7,6 +7,8 @@ namespace Module08_Nedarvning
     {
         static void Main(string[] args)
         {
+
+            int i = 0;
             Console.WriteLine("Ludoterning:");
             LudoTerning l = new LudoTerning();
 
@@ -14,6 +16,19 @@ namespace Module08_Nedarvning
             Console.WriteLine(l.ErGlobus().ToString());
             Console.WriteLine(l.ErStjerne().ToString());
             l.Ryst();
+            Console.WriteLine(l.Værdi);
+
+            while (l.ErGlobus()==false)
+            {
+                i++;
+                Console.WriteLine("antal ryst: " +i);
+                l.Ryst();
+                Console.WriteLine();
+                Console.WriteLine();
+            }
+
+            Console.WriteLine();
+            Console.WriteLine(l.ErGlobus().ToString());
             Console.WriteLine(l.Værdi);
 
 
@@ -25,6 +40,8 @@ namespace Module08_Nedarvning
             Console.WriteLine(t.Værdi);
             t.Ryst();
             Console.WriteLine(t.Værdi);
+
+
 
 
 
