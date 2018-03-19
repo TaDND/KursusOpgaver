@@ -74,8 +74,7 @@ namespace Module08_Nedarvning
                 {
                     Console.WriteLine("Der hentes en værdi");
                     return this.værdi;
-                    
-                }
+                                    }
                 set
                 {
                     if (value < 1 || value > 6)
