@@ -31,6 +31,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module07_EgenskaberTrekant"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module07_KlasserOgArrays", "Module07_KlasserOgArrays\Module07_KlasserOgArrays.csproj", "{495482F1-21EF-49BD-993E-D54CBAEAF0EF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module07_StatiskeMetoder", "Module07_StatiskeMetoder\Module07_StatiskeMetoder.csproj", "{33526B3C-A8E1-4A24-987A-CACAD20B9C39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module08Arv", "Module08Arv\Module08Arv.csproj", "{9B17167D-0F23-443F-AF46-5CDE46D1FFD5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +97,14 @@ Global
 		{495482F1-21EF-49BD-993E-D54CBAEAF0EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{495482F1-21EF-49BD-993E-D54CBAEAF0EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{495482F1-21EF-49BD-993E-D54CBAEAF0EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33526B3C-A8E1-4A24-987A-CACAD20B9C39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33526B3C-A8E1-4A24-987A-CACAD20B9C39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33526B3C-A8E1-4A24-987A-CACAD20B9C39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33526B3C-A8E1-4A24-987A-CACAD20B9C39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B17167D-0F23-443F-AF46-5CDE46D1FFD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B17167D-0F23-443F-AF46-5CDE46D1FFD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B17167D-0F23-443F-AF46-5CDE46D1FFD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B17167D-0F23-443F-AF46-5CDE46D1FFD5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

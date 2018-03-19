@@ -71,7 +71,7 @@ namespace Module07_KlasserOgArrays
         class YatzyBæger
         {
             private Terning[] terninger;    //Variabel der kan pege på array af Terning
-
+            
             //Default constructor
             public YatzyBæger()
             {
@@ -103,7 +103,7 @@ namespace Module07_KlasserOgArrays
                 }
                 Console.WriteLine();
             }
-
+            
                 
         }
     }
