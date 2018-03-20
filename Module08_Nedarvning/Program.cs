@@ -58,8 +58,6 @@ namespace Module08_Nedarvning
                 Console.ReadKey();
             }
         }
-        
-        
 
         class Terning
         {
@@ -95,9 +93,9 @@ namespace Module08_Nedarvning
                 Ryst();
             }
             //Custom constructor
-            public Terning(int Value)
+            public Terning(int value)
             {
-                Værdi = Value;
+                Værdi = value;
             }
             //Offentlig metode ryst
             public void Ryst()
