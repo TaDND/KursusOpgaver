@@ -41,6 +41,8 @@ namespace Module09_BrugAfNLog
         public static int Test1(int a)
         {
             logger.Trace("Test1 igang");
+
+            //Kode
             logger.Trace("Test1 færdig");
             return a + 1;
             
@@ -48,6 +50,9 @@ namespace Module09_BrugAfNLog
 
         public static void Test2()
         {
+            logger.Trace("Test2 igang");
+            //Kode
+            logger.Trace("Test2 færdig");
             object o = null;
             o.ToString();
 
