@@ -47,6 +47,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module09_SimpelFejlhåndter
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module09_EgenException", "Module09_EgenException\Module09_EgenException.csproj", "{2E1F951A-C173-4F4E-BAAC-4ED5A461007D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module09_BrugAfNLog", "Module09_BrugAfNLog\Module09_BrugAfNLog.csproj", "{9F3AD210-9440-4EF2-8770-BC3BC04503A7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -141,6 +143,10 @@ Global
 		{2E1F951A-C173-4F4E-BAAC-4ED5A461007D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2E1F951A-C173-4F4E-BAAC-4ED5A461007D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2E1F951A-C173-4F4E-BAAC-4ED5A461007D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F3AD210-9440-4EF2-8770-BC3BC04503A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F3AD210-9440-4EF2-8770-BC3BC04503A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F3AD210-9440-4EF2-8770-BC3BC04503A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F3AD210-9440-4EF2-8770-BC3BC04503A7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
