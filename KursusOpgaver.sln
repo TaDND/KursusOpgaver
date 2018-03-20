@@ -45,6 +45,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module08_Polymorfi_Dyr", "M
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module09_SimpelFejlhåndtering", "Module09_SimpelFejlhåndtering\Module09_SimpelFejlhåndtering.csproj", "{EEB1FECA-CB52-489E-8725-D9A87BF770DB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module09_EgenException", "Module09_EgenException\Module09_EgenException.csproj", "{2E1F951A-C173-4F4E-BAAC-4ED5A461007D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -135,6 +137,10 @@ Global
 		{EEB1FECA-CB52-489E-8725-D9A87BF770DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EEB1FECA-CB52-489E-8725-D9A87BF770DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EEB1FECA-CB52-489E-8725-D9A87BF770DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E1F951A-C173-4F4E-BAAC-4ED5A461007D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E1F951A-C173-4F4E-BAAC-4ED5A461007D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E1F951A-C173-4F4E-BAAC-4ED5A461007D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E1F951A-C173-4F4E-BAAC-4ED5A461007D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
