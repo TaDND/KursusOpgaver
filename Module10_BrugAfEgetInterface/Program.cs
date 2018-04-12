@@ -44,7 +44,7 @@ namespace Module10_BrugAfEgetInterface
             void Gem();
         }
 
-        public class Hund : IDbFunktioner
+        class Hund : IDbFunktioner
         {
             public void Gem()
             {
@@ -52,7 +52,7 @@ namespace Module10_BrugAfEgetInterface
             }
         }
 
-        public class Ubåd : IDbFunktioner
+        class Ubåd : IDbFunktioner
         {
             public void Gem()
             {

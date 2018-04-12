@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module09_BrugAfNLog", "Modu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module10_BrugAfEgetInterface", "Module10_BrugAfEgetInterface\Module10_BrugAfEgetInterface.csproj", "{ADF2BCC0-2231-4558-9921-25088D2865F0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module10_DependencyInjection", "Module10_DependencyInjection\Module10_DependencyInjection.csproj", "{029FD8F4-FFC8-4976-9EC3-9C9C8D098616}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,10 @@ Global
 		{ADF2BCC0-2231-4558-9921-25088D2865F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ADF2BCC0-2231-4558-9921-25088D2865F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ADF2BCC0-2231-4558-9921-25088D2865F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{029FD8F4-FFC8-4976-9EC3-9C9C8D098616}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{029FD8F4-FFC8-4976-9EC3-9C9C8D098616}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{029FD8F4-FFC8-4976-9EC3-9C9C8D098616}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{029FD8F4-FFC8-4976-9EC3-9C9C8D098616}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
