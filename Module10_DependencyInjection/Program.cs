@@ -43,7 +43,8 @@ namespace Module10_DependencyInjection
 
     /*Terning skal bruge en ITilfældighedsGenerator.Der skal derfor laves en klasse, der nedarver fra interfacetI TilfældighedsGenerator, og dermed indeholder metoden FindTalTilTerning.
    Det er fuldstændig ligemeget, hvordan tallet bliver fundet. Kan være System.Random, et fastdefineret tal, baseret på baggrundsstøj fra universet, eller et billede af 50 lavalamper.
-   Dette giver mulighed for, at udvikleren selv kan definere, hvilken tilfældighedsgenerator han/hun ønsker at bruge til den pågældende applikation*/
+   Dette giver mulighed for, at udvikleren selv kan definere, hvilken tilfældighedsgenerator han/hun ønsker at bruge til den pågældende applikation.
+   Det vil også sige, at det vil være nemmere at skifte tilfældighedsgenerator om 5 år, når man har fundet ud af den brugte ikke er tilfredsstillende*/
 
 
     public interface ITilfældighedsGenerator    //Interface til tilfældighedsgenerator. Skal indeholde metoden FindTalTilTerning. Det er i virkeligheden ligegyldigt, hvordan tallet bliver fundet, så længe et tal kan returneres.

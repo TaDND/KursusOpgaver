@@ -53,6 +53,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module10_BrugAfEgetInterfac
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module10_DependencyInjection", "Module10_DependencyInjection\Module10_DependencyInjection.csproj", "{029FD8F4-FFC8-4976-9EC3-9C9C8D098616}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module10_Compare", "Module10_Compare\Module10_Compare.csproj", "{787CAB5E-886D-4D58-8113-82DCB567F9EC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -159,6 +161,10 @@ Global
 		{029FD8F4-FFC8-4976-9EC3-9C9C8D098616}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{029FD8F4-FFC8-4976-9EC3-9C9C8D098616}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{029FD8F4-FFC8-4976-9EC3-9C9C8D098616}.Release|Any CPU.Build.0 = Release|Any CPU
+		{787CAB5E-886D-4D58-8113-82DCB567F9EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{787CAB5E-886D-4D58-8113-82DCB567F9EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{787CAB5E-886D-4D58-8113-82DCB567F9EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{787CAB5E-886D-4D58-8113-82DCB567F9EC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
