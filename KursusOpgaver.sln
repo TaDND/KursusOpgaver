@@ -67,6 +67,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module12_Delegate(Funktions
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module12_Delegate(funktionspointer)(2)", "Module12_Delegate(funktionspointer)(2)\Module12_Delegate(funktionspointer)(2).csproj", "{1A78775B-9E00-44ED-AEF0-68AF8C14C3F0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module12_Delegates", "Module12_Delegates\Module12_Delegates.csproj", "{0F0AC762-1251-4221-9740-4ABF90A31C7F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module12_FileWatch", "Module12_FileWatch\Module12_FileWatch.csproj", "{D88E923F-FDC2-47B2-AEEC-6E77BCA8A7D9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -201,6 +205,14 @@ Global
 		{1A78775B-9E00-44ED-AEF0-68AF8C14C3F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1A78775B-9E00-44ED-AEF0-68AF8C14C3F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1A78775B-9E00-44ED-AEF0-68AF8C14C3F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F0AC762-1251-4221-9740-4ABF90A31C7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F0AC762-1251-4221-9740-4ABF90A31C7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F0AC762-1251-4221-9740-4ABF90A31C7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F0AC762-1251-4221-9740-4ABF90A31C7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D88E923F-FDC2-47B2-AEEC-6E77BCA8A7D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D88E923F-FDC2-47B2-AEEC-6E77BCA8A7D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D88E923F-FDC2-47B2-AEEC-6E77BCA8A7D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D88E923F-FDC2-47B2-AEEC-6E77BCA8A7D9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

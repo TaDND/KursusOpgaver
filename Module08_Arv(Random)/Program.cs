@@ -10,10 +10,10 @@ namespace Module08_Arv_Random_
 
             UdvidetRandom r = new UdvidetRandom();
             Console.WriteLine(r.NextBool());
-            
 
 
 
+            UdvidetRandom udvidetRandom = new UdvidetRandom();
 
             // Keep console window open when using the debugger (F5)
             if (System.Diagnostics.Debugger.IsAttached)
