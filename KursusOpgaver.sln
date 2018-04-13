@@ -73,6 +73,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module12_FileWatch", "Modul
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module12_Events", "Module12_Events\Module12_Events.csproj", "{92C11E4D-7019-4748-8EA8-F9113CF044B0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module14_BrugAfLINQ", "Module14_BrugAfLINQ\Module14_BrugAfLINQ.csproj", "{17F4FE69-DADF-41DA-8D25-C41AA0A019C2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -219,6 +221,10 @@ Global
 		{92C11E4D-7019-4748-8EA8-F9113CF044B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{92C11E4D-7019-4748-8EA8-F9113CF044B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{92C11E4D-7019-4748-8EA8-F9113CF044B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17F4FE69-DADF-41DA-8D25-C41AA0A019C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17F4FE69-DADF-41DA-8D25-C41AA0A019C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17F4FE69-DADF-41DA-8D25-C41AA0A019C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17F4FE69-DADF-41DA-8D25-C41AA0A019C2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
