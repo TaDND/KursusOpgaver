@@ -63,6 +63,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module11_GeneriskKlasse", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module11_GeneriskKlasse2", "Module11_GeneriskKlasse2\Module11_GeneriskKlasse2.csproj", "{CDEC01E1-736E-4A71-8CB8-F65EBE759EA6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module12_Delegate(Funktionspointer)(1)", "Module12_Delegate(Funktionspointer)(1)\Module12_Delegate(Funktionspointer)(1).csproj", "{5EE1B989-7DBF-4895-AF0E-520E3FD8EF2C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -189,6 +191,10 @@ Global
 		{CDEC01E1-736E-4A71-8CB8-F65EBE759EA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CDEC01E1-736E-4A71-8CB8-F65EBE759EA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CDEC01E1-736E-4A71-8CB8-F65EBE759EA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EE1B989-7DBF-4895-AF0E-520E3FD8EF2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EE1B989-7DBF-4895-AF0E-520E3FD8EF2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EE1B989-7DBF-4895-AF0E-520E3FD8EF2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EE1B989-7DBF-4895-AF0E-520E3FD8EF2C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
